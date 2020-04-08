@@ -1,0 +1,4 @@
+git+https://github.com/italia/design-django-theme
+libsass
+django-compressor
+django-sass-processor

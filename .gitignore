@@ -1,0 +1,7 @@
+*.pyc
+*~
+*__pycache__
+*/.~lock*
+/dist/
+*.egg-info/
+MANIFEST.in
