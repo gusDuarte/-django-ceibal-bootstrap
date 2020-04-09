@@ -34,7 +34,7 @@ Installazione
 ```
 pip install django-unical-boostrap-italia
 ```
-- In settings.py INSTALLED_APPS inserire *django_unical_bootstrap_italia*.
+- In settings.py INSTALLED_APPS inserire *django_ceibal_bootstrap*.
 
 
 Utilizzo
