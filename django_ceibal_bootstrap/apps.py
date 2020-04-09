@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class DjangoUnicalBoostrapItaliaTemplateConfig(AppConfig):
+class DjangoCeibalBootstrapTemplateConfig(AppConfig):
     name = 'django_ceibal_bootstrap'
