@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class DjangoUnicalBoostrapItaliaTemplateConfig(AppConfig):
-    name = 'django_unical_bootstrap_italia'
+    name = 'django_ceibal_bootstrap'
