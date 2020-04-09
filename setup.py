@@ -8,17 +8,17 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
 os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
-    name='django-unical-bootstrap-italia',
-    version='1.0.2',
+    name='django-ceibal-bootstrap',
+    version='1.0.0',
     packages=find_packages(),
     include_package_data=True,
     license='BSD License',
-    description="Django theme for Università della Calabria (UNICAL) based on Bootstrap Italia theme",
+    description="Django theme Ceibal based on Bootstrap Italia theme",
     long_description=README,
     long_description_content_type='text/markdown',
-    url='https://github.com/UniversitaDellaCalabria/django-unical-bootstrap-italia',
-    author='Giuseppe De Marco, Francesco Filicetti',
-    author_email='giuseppe.demarco@unical.it, francesco.filicetti@unical.it',
+    url='https://github.com/gusDuarte/django-ceibal-bootstrap',
+    author='Gustavo Duarte',
+    author_email='gus.duarte@gmail.com',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
